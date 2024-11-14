@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\osbermej\\Downloads\\prueba\\Prueba2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9908FA07-E45B-494C-95BD-7A361C97DC18}|LN\\LN.csproj|c:\\users\\osbermej\\downloads\\prueba\\prueba2\\ln\\pruebadatos\\pruebadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9908FA07-E45B-494C-95BD-7A361C97DC18}|LN\\LN.csproj|solutionrelative:ln\\pruebadatos\\pruebadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\osbermej\\Downloads\\prueba\\Prueba2\\LN\\PruebaDatos\\PruebaDatos.cs",
+              "RelativeDocumentMoniker": "LN\\PruebaDatos\\PruebaDatos.cs",
+              "ToolTip": "C:\\Users\\osbermej\\Downloads\\prueba\\Prueba2\\LN\\PruebaDatos\\PruebaDatos.cs",
+              "RelativeToolTip": "LN\\PruebaDatos\\PruebaDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:58:07.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
