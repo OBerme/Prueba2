@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace MD
 {
-    public class ColeccionTitulares : KeyedCollection<string, Cliente>
+    public class ColeccionTitulares : KeyedCollection<string, Cliente2>
     {
-        protected override string GetKeyForItem(Cliente cliente)
+        protected override string GetKeyForItem(Cliente2 cliente)
         {
             return cliente.DNI;
         }

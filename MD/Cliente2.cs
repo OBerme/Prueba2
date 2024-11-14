@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 
 namespace MD
 {
-    public class Cliente : IEquatable<Cliente> 
+    public class Cliente2 : IEquatable<Cliente2> 
     {
         private String nombre; //Nombre del cliente
         private String dni; //DNI del cliente
 
         //PRE: nombre y dni son cadenas de caracteres que representan el nombre y dni de un cliente.
         //POST: se crea un cliente con nombre y dni como atributos.
-        public Cliente(String nombre, String dni)
+        public Cliente2(String nombre, String dni)
         {
             this.nombre = nombre;
             this.dni = dni;
@@ -59,7 +59,7 @@ namespace MD
 
         //PRE: other es un cliente que debe exisitir
         //POST: devuelve true si ambos cleitne coinciden en nombre y dni y falso en caso contrario.
-        public bool Equals(Cliente other) 
+        public bool Equals(Cliente2 other) 
         {
             if (other == null)
             {

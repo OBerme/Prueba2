@@ -94,7 +94,7 @@ namespace MD
         /// </summary>
         /// <param name="cliente"></param>
         /// <returns></returns>
-        public void anadirTitular(Cliente cliente)
+        public void anadirTitular(Cliente2 cliente)
         {
            this.titulares.Add(cliente);
         }
@@ -104,7 +104,7 @@ namespace MD
         /// POST: elimina el Cliente cliente de la colección de titulares de la cuenta
         /// </summary>
         /// <param name="cliente"></param>
-        public void eliminarTitular(Cliente cliente)
+        public void eliminarTitular(Cliente2 cliente)
         {
             this.titulares.Remove(cliente);
         }
